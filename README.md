@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Portfolio open source
 
-You can use the [editor on GitHub](https://github.com/GuglielmoPepe/guglielmopepe.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Questo repository contiene il codice sorgente per creare il mio portfolio di progetti open source.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Puoi utilizzare questo codice come base per creare il tuo portfolio oltre che come semplice tutorial per utilizzare le API di github.
 
-### Markdown
+### Descrizione
+Questo progetto aiuta gli sviluppatori a creare un semplice portfolio dei propri progetti open source attraverso l'uso di AngularJs, TachyonsCss e le API di Github.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Licenza
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GuglielmoPepe/guglielmopepe.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
