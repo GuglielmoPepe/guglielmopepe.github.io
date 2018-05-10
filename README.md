@@ -9,4 +9,4 @@ Questo progetto aiuta gli sviluppatori a creare un semplice portfolio dei propri
 
 
 ### Licenza
-
+Codice e documentazione rilasciati con licenza MIT. Consulta il [file della licenza](LICENSE.md) per ulteriori informazioni.
