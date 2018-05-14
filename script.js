@@ -34,15 +34,15 @@ portfolio.controller('controller', function($scope, user, repos) {
     
 });
 
-angular.module('portfolio.service',[])
-  .service('user', function ($http) {
+angular.module('portfolio.service',['portfolio.config'])
+  .service('user', function ($http, USER_URL, REPOS_URL) {
     this.getUserInfo = function () {
-       return $http.get('https://api.github.com/users/GuglielmoPepe');
+       return $http.get(USER_URL);
     };
  })
-  .service('repos', function ($http) {
+  .service('repos', function ($http, USER_URL, REPOS_URL) {
     this.getRepos = function () {
-       return $http.get('https://api.github.com/users/GuglielmoPepe/repos');
+       return $http.get(REPOS_URL);
     };
  });
  
