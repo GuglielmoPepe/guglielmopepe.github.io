@@ -34,19 +34,35 @@ portfolio.controller('controller', function($scope, user, repos) {
     
 });
 
-angular.module('portfolio.service',[])
-  .service('user', function ($http) {
+angular.module('portfolio.service',['portfolio.config'])
+  .service('user', function ($http, USER_URL) {
     this.getUserInfo = function () {
-       return $http.get('https://api.github.com/users/GuglielmoPepe');
+       return $http.get(USER_URL);
     };
  })
-  .service('repos', function ($http) {
+  .service('repos', function ($http, REPOS_URL) {
     this.getRepos = function () {
-       return $http.get('https://api.github.com/users/GuglielmoPepe/repos');
+       return $http.get(REPOS_URL);
     };
  });
+ 
 
 portfolio.filter('masonry', function() {
+  return function (items, column, columns) {
+    var filtered = [];
+    var counter = 0;
+    
+    for (var i = 0; i < items.length; i++) {
+
+      if (counter % columns == column) {
+        filtered.push(items[i]);
+      }
+      
+      counter++;
+    }
+    return filtered;
+  };
+});
   return function (items, column, columns) {
     var filtered = [];
     var counter = 0;
