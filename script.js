@@ -1,4 +1,4 @@
-var portfolio = angular.module('portfolio', ['portfolio.service']);
+var portfolio = angular.module('portfolio', ['portfolio.service', 'portfolio.config']);
 
 portfolio.controller('controller', function($scope, user, repos) {
 
