@@ -63,10 +63,3 @@ portfolio.filter('masonry', function() {
     return filtered;
   };
 });
-      }
-      
-      counter++;
-    }
-    return filtered;
-  };
-});
