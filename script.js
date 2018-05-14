@@ -1,4 +1,4 @@
-var portfolio = angular.module('portfolio', ['portfolio.service', 'portfolio.config']);
+var portfolio = angular.module('portfolio', ['portfolio.service']);
 
 portfolio.controller('controller', function($scope, user, repos) {
 
@@ -34,15 +34,15 @@ portfolio.controller('controller', function($scope, user, repos) {
     
 });
 
-angular.module('portfolio.service',['portfolio.config'])
-  .service('user', function ($http, USER_URL) {
+angular.module('portfolio.service',[])
+  .service('user', function ($http) {
     this.getUserInfo = function () {
-       return $http.get(USER_URL);
+       return $http.get('https://api.github.com/users/GuglielmoPepe');
     };
  })
-  .service('repos', function ($http, REPOS_URL) {
+  .service('repos', function ($http) {
     this.getRepos = function () {
-       return $http.get(REPOS_URL);
+       return $http.get('https://api.github.com/users/GuglielmoPepe/repos');
     };
  });
  
@@ -63,14 +63,6 @@ portfolio.filter('masonry', function() {
     return filtered;
   };
 });
-  return function (items, column, columns) {
-    var filtered = [];
-    var counter = 0;
-    
-    for (var i = 0; i < items.length; i++) {
-
-      if (counter % columns == column) {
-        filtered.push(items[i]);
       }
       
       counter++;
