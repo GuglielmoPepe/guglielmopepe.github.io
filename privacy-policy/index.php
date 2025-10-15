@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+
+        <link rel="canonical" href="https://guglielmopepe.github.io/informazioni-sul-trattamento-dei-dati-personali/" />
+
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/GuglielmoPepe/quick/src/quick.min.css"/>
+        <link rel="stylesheet" href="../style.css"/>
+
+        <meta charset="utf-8" />
+        <meta http-equiv="x-ua-compatible" content="ie=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+        <title>Privacy policy | Guglielmo Pepe</title>
+
+    </head>
+
+    <body>
+
+        <nav>
+
+            <a href="../">Guglielmo Pepe</a>
+
+        </nav>
+
+        <main>
+
+            <article>
+
+                <header>
+
+                    <h1>Information on the processing of personal data</h1>
+
+                </header>
+
+                <section>
+
+                    <h2>Why this information</h2>
+
+                    <p>I'll briefly tell you how I manage the personal data I process in my daily work.</p>
+
+                    <p>The criteria with which I manage data are based on the regulations governing the matter (Legislative Decree 196/2003 "Privacy Code" and EU Regulation 679/2016 "GDPR") and, more generally, on the principles of transparency, confidentiality, and fairness.</p>
+
+                </section>
+
+                <section>
+
+                    <h2>Data controller</h2>
+
+                    <p>The data controller is Guglielmo Pepe, via Laviano 168 IT-81100 Caserta CE Italia, who can be contacted by sending an email to the email address <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%69%6e%66%6f%40%67%75%67%6c%69%65%6c%6d%6f%70%65%70%65%2e%63%6f%6d">&#105;&#110;&#102;&#111;&#64;&#103;&#117;&#103;&#108;&#105;&#101;&#108;&#109;&#111;&#112;&#101;&#112;&#101;&#46;&#99;&#111;&#109;</a>.</p>
+
+                </section>
+
+                <section>
+
+                    <h2>Purposes and legal bases of the processing</h2>
+
+                    <h3>Browsing data</h3>
+
+                    <p>The processing of browsing data is necessary to pursue the data controller's legitimate interest in the proper functioning of the services on the guglielmopepe.github.io domain.</p>
+
+                    <p>The processing of browsing data is necessary to pursue the data controller's legitimate interest in the judicial protection of its rights and interests in the event of any computer crimes against the services on the guglielmopepe.github.io domain or the IT infrastructure, or in the event of disputes.</p>
+
+                    <h3>Contact details</h3>
+
+                    <p>Processing contact data is necessary to pursue the owner's legitimate interest in responding to communications sent to him.</p>
+
+                    <p>The processing of contact data is necessary for the performance of a contract to which the data subject is party or for the implementation of pre-contractual measures taken at the data subject's request.</p>
+
+                    <p>The processing of contact data is necessary to pursue the legitimate interest of the data controller to, where appropriate, seek judicial protection of his or her rights and interests.</p>
+
+                    <h3>Data for the execution of pre-contractual measures or contracts</h3>
+
+                    <p>The processing of data for the execution of pre-contractual or contractual measures is necessary for the pursuit of the legitimate interest of the data controller in the execution of a contract to which the data subject is a party or in the execution of pre-contractual measures adopted at the request of the data subject.</p>
+
+                </section>
+
+                <section>
+
+                    <h2>Description of the categories of personal data</h2>
+
+                    <h3>Browsing data</h3>
+
+                    <p>Browsing data includes data whose transmission is implicit in the use of electronic communication protocols. This category includes, by way of example and not limited to, the IP addresses or domain names of computers and terminals used by users, the URI/URL (Uniform Resource Identifier/Locator) addresses of requested resources, the time of the request, the HTTP method used to submit the request to the server, the size of the file obtained in response, the numerical code indicating the status of the response from the server (successful, error, etc.), and other parameters relating to the user's operating system and IT environment.</p>
+                    
+                    <h3>Contact details</h3>
+
+                    <p>Contact data includes the sender's name and all personal data included in communications and related attachments. This category includes, but is not limited to, the sender's email address, nickname, first and last name, and any carbon copy recipients, as well as any personal data included in or attached to the message.</p>
+
+                    <h3>Data for the execution of pre-contractual measures or contracts</h3>
+
+                    <p>The category of data required for the execution of pre-contractual or contractual measures includes personal data necessary for the execution of pre-contractual or contractual measures. By way of example and not limited to, this category includes name, surname, company name, tax code, VAT number, REA registration number (if applicable), certified or non-certified email address, registered office address, residence, or domicile address, and any other personal data included in communications.</p>
+
+                </section>
+
+                <section>
+
+                    <h2>Data source</h2>
+
+                    <h3>Browsing data</h3>
+
+                    <p>Browsing data originates from the use of electronic communication protocols by computer systems and software procedures used to operate the services on the guglielmopepe.github.io domain, which implicitly transmit some personal data during their normal operation. Therefore, when browsing the guglielmopepe.github.io domain, data relating to identified or identifiable natural persons may be processed.</p>
+
+                    <h3>Contact details</h3>
+
+                    <p>Contact data originates from the sending of communications that implicitly transmit some personal data. Therefore, receiving such communications may process data relating to identified or identifiable natural persons.</p>
+
+                    <h3>Data for the execution of pre-contractual measures or contracts</h3>
+
+                    <p>The data for the execution of pre-contractual or contractual measures originate from pre-contractual and contractual relationships.</p>
+
+                </section>
+
+                <section>
+
+                    <h2>Recipients and categories of recipients of personal data</h2>
+
+                    <p>Recipients of personal data may be service providers, judicial and/or administrative authorities.</p>
+
+                </section>
+
+                <section>
+
+                    <h2>Transfer of personal data to third countries or international organisations</h2>
+
+                    <p>The data controller does not intend to transfer personal data to a third country or to an international organization.</p>
+
+                </section>
+
+                <section>
+
+                    <h2>Retention period</h2>
+
+                    <h3>Browsing data</h3>
+
+                    <p>Browsing data is retained for a maximum of 12 months, except in the event of criminal investigations by judicial authorities or disputes, in which case it is deleted ten years after the end of the same or as required by civil and tax legislation.</p>
+                    
+                    <h3>Contact details</h3>
+
+                    <p>Contact details and all personal data included in communications will be deleted ten years after the sender's last communication, or as required by civil and tax law. In the event of any disputes, the data will be deleted ten years after the end of the dispute.</p>
+
+                    <h3>Data for the execution of pre-contractual measures or contracts</h3>
+
+                    <p>Data used for the execution of pre-contractual measures or contracts will be deleted ten years after the sender's last communication or as required by civil and tax legislation, except in the event of any disputes, in which case the data will be deleted ten years after the termination of the same.</p>
+
+                </section>
+
+                <section>
+
+                    <h2>Rights of the interested party</h2>
+
+                    <h3>Right of access, rectification, erasure, limitation, opposition and portability</h3>
+
+                    <p>The interested party has the right to request, where applicable, from the data controller access to personal data and the rectification or erasure of the same, or the restriction of the processing of personal data concerning him or her, or to object to their processing, in addition to the right to data portability.</p>
+
+                    <p>The interested party can exercise these rights by contacting the data controller by sending an email to the email address <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%69%6e%66%6f%40%67%75%67%6c%69%65%6c%6d%6f%70%65%70%65%2e%63%6f%6d">&#105;&#110;&#102;&#111;&#64;&#103;&#117;&#103;&#108;&#105;&#101;&#108;&#109;&#111;&#112;&#101;&#112;&#101;&#46;&#99;&#111;&#109;</a>.</p>
+                    
+                    <h3>Right to withdraw consent</h3>
+
+                    <p>If the interested party has given consent to the processing of personal data for one or more specific purposes, he or she has the right to withdraw the consent given at any time.</p>
+
+                    <p>The interested party can exercise these rights by contacting the data controller by sending an email to the email address <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%69%6e%66%6f%40%67%75%67%6c%69%65%6c%6d%6f%70%65%70%65%2e%63%6f%6d">&#105;&#110;&#102;&#111;&#64;&#103;&#117;&#103;&#108;&#105;&#101;&#108;&#109;&#111;&#112;&#101;&#112;&#101;&#46;&#99;&#111;&#109;</a>.</p>
+
+                    <h3>Right to complain to a supervisory authority</h3>
+
+                    <p>If the interested party believes that the processing is being carried out in violation of the law, he or she has the right to lodge a complaint with the Data Protection Authority or to take legal action.</p>
+
+                </section>
+
+                <section>
+
+                    <h2>Optionality and consequences of failure to communicate personal data</h2>
+
+                    <h3>Browsing data</h3>
+
+                    <p>Providing browsing data is not a legal or contractual obligation nor a necessary requirement for entering into a contract.</p>
+
+                    <p>The interested party is not required to provide browsing data, but failure to provide such data will make it impossible and/or difficult to use the services on the guglielmopepe.github.io domain.</p>
+                    
+                    <h3>Contact details</h3>
+
+                    <p>Providing contact details is not a legal or contractual obligation, nor a requirement necessary to enter into a contract, if the data subject is not a party to pre-contractual negotiations or is not a party to a contract with the data controller.</p>
+
+                    <p>The data subject is not required to provide contact information, and failure to provide such information will not have any consequences for the sender, unless the data subject is involved in pre-contractual negotiations or is not party to a contract with the data controller.</p>
+
+                    <p>Providing contact details is a legal or contractual obligation or a requirement necessary to enter into a contract, if the data subject is involved in pre-contractual negotiations or is party to a contract with the data controller.</p>
+
+                    <p>The data subject is required to provide contact information, and failure to provide such information will make it impossible to follow up on pre-contractual or contractual measures, if the data subject is involved in pre-contractual negotiations or is a party to a contract with the data controller.</p>
+
+                    <h3>Data for the execution of pre-contractual measures or contracts</h3>
+
+                    <p>The provision of data for the execution of pre-contractual or contractual measures is a necessary requirement for the execution of pre-contractual measures or contracts.</p>
+
+                    <p>The interested party is not obliged to provide data for the execution of pre-contractual or contractual measures, but failure to provide such data will make it impossible to follow up on the execution of pre-contractual measures or contracts.</p>
+
+                </section>
+
+                <section>
+
+                    <h2>Existence of an automated decision-making process</h2>
+
+                    <p>The data subject shall not be subject to an automated decision-making process based solely on automated processing, including profiling, which produces legal effects concerning him or her or similarly significantly affects him or her.</p>
+
+                </section>
+
+            </article>
+
+        </main>
+
+        <footer>
+
+            <p>
+                GUGLIELMO PEPE <br /> <br />
+                C.F. PPEGLL79D24G596F - P.IVA 04502840616 <br />
+                profession practiced pursuant to the law of 14 January 2013, n. 4 <br />
+                email: <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%69%6e%66%6f%40%67%75%67%6c%69%65%6c%6d%6f%70%65%70%65%2e%63%6f%6d">&#105;&#110;&#102;&#111;&#64;&#103;&#117;&#103;&#108;&#105;&#101;&#108;&#109;&#111;&#112;&#101;&#112;&#101;&#46;&#99;&#111;&#109;</a> - pec: <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%67%75%67%6c%69%65%6c%6d%6f%2e%70%65%70%65%40%63%61%73%65%6c%6c%61%70%65%63%2e%63%6f%6d">&#103;&#117;&#103;&#108;&#105;&#101;&#108;&#109;&#111;&#46;&#112;&#101;&#112;&#101;&#64;&#99;&#97;&#115;&#101;&#108;&#108;&#97;&#112;&#101;&#99;&#46;&#99;&#111;&#109;</a> <br />
+                <a href="https://www.google.com/maps/place/Via+Capitano+Laviano,+168,+81100+Caserta+CE/@41.0809718,14.3453759,17z/data=!3m1!4b1!4m5!3m4!1s0x133a54390426d411:0xbdb8f0deddf638ca!8m2!3d41.0809718!4d14.3475646">via Laviano 168 IT-81100 Caserta CE Italia</a> <br />
+            </p>
+
+            <p>
+                <a href="privacy-policy/">privacy policy</a>
+                <a href="cookie-policy/">cookie policy</a>
+            </p>
+
+        </footer>
+
+    </body>
+
+</html>

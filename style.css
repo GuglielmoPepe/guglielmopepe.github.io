@@ -1,0 +1,22 @@
+:root {--qk--font-family--body: NotoSans_Condensed-ExtraLight; --qk--font-family--heading: NotoSans_Condensed-ExtraLight;}
+
+body{max-width:100%;}
+footer {text-align: center;}
+header h1 {font-size: calc(var(--qk--font-size--xxl) * 1.5);}
+header h2 {font-size: calc(var(--qk--font-size--xl) * 1.2);}
+main {font-size: var(--qk--font-size--m); min-height: 100vh;}
+nav {font-size: var(--qk--font-size--l);}
+
+@font-face
+{
+    font-family: NotoSans_Condensed-ExtraLight;
+    src: url(Noto_Sans/static/NotoSans_Condensed-ExtraLight.ttf);
+}
+
+@media screen and (min-width: 35rem)
+{
+    body{display: grid; grid-template-areas:"nav main main""footer footer footer"; grid-template-columns: 1fr 1fr 1fr;}
+    footer {grid-area: footer;}
+    main {grid-area: main;}
+    nav {font-size: var(--qk--font-size--xl); grid-area: nav; margin: calc(var(--qk--spacing--l) * 3) 0;}
+}
